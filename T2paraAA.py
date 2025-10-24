@@ -66,7 +66,7 @@ def main():
         print(f"\nCantidad de palabras con al menos una vocal: {total}")
 
     except ValueError:
-        print("Ingrese solo numeros enteros validos.")
+        print("Ingrese solo numeros enteros validos...")
 
 if __name__ == "__main__":
     main()
